@@ -1,0 +1,8 @@
+E:\Projects\C#\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe.config
+E:\Projects\C#\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+E:\Projects\C#\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+E:\Projects\C#\SerialPortListener\SerialPortListener\obj\Debug\SerialPortListener.MainForm.resources
+E:\Projects\C#\SerialPortListener\SerialPortListener\obj\Debug\SerialPortListener.Properties.Resources.resources
+E:\Projects\C#\SerialPortListener\SerialPortListener\obj\Debug\SerialPortListener.csproj.GenerateResource.Cache
+E:\Projects\C#\SerialPortListener\SerialPortListener\obj\Debug\SerialPortListener.exe
+E:\Projects\C#\SerialPortListener\SerialPortListener\obj\Debug\SerialPortListener.pdb
